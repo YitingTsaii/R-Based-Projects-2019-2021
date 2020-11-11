@@ -14,5 +14,5 @@
 * **Problem:** Predict future material price by Hidden Markov Model <br/>
 * **Methods:**  <br/>
   * assign 3 hidden states for the model, each following a normal distribution 
-  * estimate all the parameters, including the mean and standard deviation of normal distributions and the elements in the transition matrix, by forward, backward, and Viterbi algorithm (by Stan)
+  * estimate all the parameters, including mean and variance of normal distributions and elements in the transition matrix, by forward, backward, and Viterbi algorithm (by Stan)
   
