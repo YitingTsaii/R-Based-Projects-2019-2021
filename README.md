@@ -1,6 +1,6 @@
 # R-Based-Projects
 
-## 1. Biomarker Identification
+## 1. Biomarker Identification (Survival Analysis)
 * **Goal:** Segment patients into groups by biomarkers to promote precision medicine <br/>
 * **Problem:** Identify prognosis biomarkers for cervical cancer by survival analysis <br/>
 * **Methods:**  <br/>
