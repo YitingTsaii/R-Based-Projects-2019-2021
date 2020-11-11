@@ -16,6 +16,3 @@
   * assign 3 hidden states for the model, each following a normal distribution 
   * estimate all the parameters by forward, backward, and Viterbi algorithm (by Stan)
   
-  ![normal dist](https://latex.codecogs.com/gif.latex?N%28%5Cmu_i%2C%20%5Csigma_i%29)
-  ![transition matrix](https://latex.codecogs.com/gif.latex?A%20%3D%20%5Cbegin%7Bbmatrix%7D%20a_%7B11%7D%20%26%20a_%7B12%7D%20%26%20a_%7B13%7D%5C%5C%20a_%7B21%7D%20%26%20a_%7B22%7D%20%26%20a_%7B23%7D%5C%5C%20a_%7B31%7D%20%26%20a_%7B32%7D%20%26%20a_%7B33%7D%20%5Cend%7Bbmatrix%7D)
-  ![noraml with reg](https://latex.codecogs.com/gif.latex?N%28%5Calpha_i&plus;%5Cbeta_%7Bi1%7Dx_1&plus;%5Cbeta_%7Bi2%7Dx_2%2C%5C%3B%20%5Csigma_i%29)
