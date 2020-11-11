@@ -16,3 +16,4 @@
   * assign 3 hidden states for the model, each following a normal distribution 
   * estimate all the parameters, including mean and variance of normal distributions and elements in the transition matrix, by forward, backward, and Viterbi algorithm (by Stan)
   
+## 3. Bond/Stock Return Simulation (Hull-White Model & Copula)
