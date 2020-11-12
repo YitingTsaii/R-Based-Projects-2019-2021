@@ -15,7 +15,7 @@
 * **Methods:**  <br/>
   * Assign 3 hidden states: each follows a normal distribution, representing the low, medium, and high status
   * Construct the transition matrix: a 3 by 3 matrix storing the transition probabilities 
-  * Estimate the parameters: forward-backward algorithm, Viterbi algorithm (using Bayesian approach by `RStan`)
+  * Estimate parameters: forward-backward algorithm, Viterbi algorithm (using Bayesian approach by `RStan`)
   
 ## 3. Bond/Stock Return Simulation (Stocahstic Models & Copula)
 * **Goal:** Generate economic scenarios to help determine the optimal declared interest rate <br/>
