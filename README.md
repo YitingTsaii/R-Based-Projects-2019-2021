@@ -29,7 +29,7 @@
 * **Goal:** Construct proper multiple linear regression models to forecast GDP <br/>
 * **Problem:** Select significant input variables by Expectation Maximization Variable Selection (EMVS) <br/>
 * **Methods:**  <br/>
-  * 
-  * 
+  * Set prior distribution for regression coefficients: a hierarchical "spike-and-slab" Gaussian mixture prior, which use a binary latent variable to control whether it is a spike or a slab
+  * Control the variance of 
   * 
  
