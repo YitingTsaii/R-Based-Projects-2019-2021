@@ -15,6 +15,15 @@
 * **Methods:**  <br/>
   * Assign 3 hidden states: each follows a normal distribution, representing the low, medium, and high status
   * 
-  * estimate all the parameters, including mean and variance of normal distributions and elements in the transition matrix, by forward, backward, and Viterbi algorithm (by Stan)
+  * Estimate parameters: forward, backward, Viterbi algorithm (by Stan)
   
-## 3. Bond/Stock Return Simulation (Hull-White Model & Copula)
+## 3. Bond/Stock Return Simulation (Stocahstic Models & Copula)
+* **Goal:** Generate economic scenarios to help determine the optimal declared interest rate <br/>
+* **Problem:** Simulate future bond and stock return by Hull-White Model and Copula <br/>
+* **Methods:**  <br/>
+  * Simulate future bond return: Hull-White Model (short rate -> bond price -> bond return)
+  * Simulate future stock return: Geometric Brownian Motion
+  * Capture the correlation between bond and stock return: Gaussian copula or Archimedean copula 
+
+
+ 
