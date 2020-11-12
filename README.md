@@ -26,8 +26,8 @@
   * Capture the correlation between bond and stock return: Gaussian copula or Archimedean copula 
 
 ## 4. Bayesian Variable Selection & GDP Forecast (EMVS & Regression)
-* **Goal:** Construct proper linear regression models to forecast GDP <br/>
-* **Problem:** Select variables by Expectation Maximization Variable Selection (EMVS) <br/>
+* **Goal:** Construct proper multiple linear regression models to forecast GDP <br/>
+* **Problem:** Select significant input variables by Expectation Maximization Variable Selection (EMVS) <br/>
 * **Methods:**  <br/>
   * 
   * 
