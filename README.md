@@ -10,8 +10,8 @@
   * Select biomarkers and covariates: stepwise cox regression
 
 ## 2. Material Price Prediction (Hidden Markov Model)
-* **Goal:** Grasp the trend of future material price to improve inventory control plan <br/>
-* **Problem:** Predict future material price by Hidden Markov Model <br/>
+* **Goal:** Grasp the trend of future material prices to improve inventory control plan <br/>
+* **Problem:** Predict future material prices by Hidden Markov Model <br/>
 * **Methods:**  <br/>
   * Assign 3 hidden states: each follows a normal distribution, representing the low, medium, and high status
   * 
