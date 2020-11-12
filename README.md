@@ -25,5 +25,11 @@
   * Simulate future stock return: Geometric Brownian Motion
   * Capture the correlation between bond and stock return: Gaussian copula or Archimedean copula 
 
-
+## 4. Bayesian Variable Selection & GDP Forecast (EMVS & Regression)
+* **Goal:** Construct proper linear regression models to forecast GDP <br/>
+* **Problem:** Select variables by Expectation Maximization Variable Selection (EMVS) <br/>
+* **Methods:**  <br/>
+  * 
+  * 
+  * 
  
