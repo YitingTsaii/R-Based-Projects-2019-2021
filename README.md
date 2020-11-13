@@ -6,7 +6,7 @@
 * **Methods:**  <br/>
   * Screen out noisy covariates: correlation heatmap, univariate cox regression, log-rank test 
   * Subset the data by cell types: focusing on squamous cell carcinoma and adenocarcinoma 
-  * Find 2~3 optimal cut points for each biomarker: `surv_cutpoint()` and `rhier()` 
+  * Find 2~3 optimal cut points for each biomarker: maximally selected rank statistics 
   * Select biomarkers and covariates: stepwise cox regression
 
 ## 2. Material Price Prediction (Hidden Markov Model)
