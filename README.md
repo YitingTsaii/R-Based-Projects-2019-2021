@@ -14,8 +14,8 @@
 * **Problem:** Predict future material prices by Hidden Markov Model (HMM) <br/>
 * **Methods for HMM:**  <br/>
   * Build 3 hidden states: representing the low, medium, and high status
-  * Assign normal distribution to each state: setting the mean parameter as a fixed number or the result from a linear regression
-  * Estimate parameters in each distribution and in transition matrix: forward-backward algorithm, Viterbi algorithm (using Bayesian approach by `RStan`)
+  * Assign normal distribution to each state: mean = a fixed number or following a linear regression
+  * Estimate parameters: forward-backward algorithm, Viterbi algorithm (using Bayesian approach by `RStan`)
   
 ## 3. Bond/Stock Return Simulation (Stocahstic Models & Copula)
 * **Goal:** Generate economic scenarios to help determine the optimal declared interest rate <br/>
