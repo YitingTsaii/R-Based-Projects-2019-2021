@@ -13,8 +13,8 @@
 * **Goal:** Grasp the trend of future material prices to improve inventory control plan <br/>
 * **Problem:** Predict future material prices by Hidden Markov Model (HMM) <br/>
 * **Methods for HMM:**  <br/>
-  * Set 3 hidden states: representing the low, medium, and high status
-  * Assign normal distribution to each state: estimate the mean parameter as a fixed parameter or the result from a linear regression
+  * Build 3 hidden states: representing the low, medium, and high status
+  * Assign normal distribution to each state: setting the mean parameter as a fixed number or the result from a linear regression
   * Estimate parameters in each distribution and in transition matrix: forward-backward algorithm, Viterbi algorithm (using Bayesian approach by `RStan`)
   
 ## 3. Bond/Stock Return Simulation (Stocahstic Models & Copula)
