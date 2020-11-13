@@ -23,7 +23,7 @@
 * **Methods:**  <br/>
   * Simulate future bond return: Hull-White Model (short rate -> bond price -> bond return)
   * Simulate future stock return: Geometric Brownian Motion
-  * Capture the correlation between bond and stock return: Gaussian copula or Archimedean copula 
+  * Capture the correlation between bond and stock return: copula (Gaussian, t, Archimedean) 
 
 ## 4. Bayesian Variable Selection & GDP Forecast (EMVS & Regression)
 * **Goal:** Construct proper multiple linear regression models to forecast GDP <br/>
